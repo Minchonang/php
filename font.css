@@ -1,0 +1,38 @@
+@import url(http://fonts.googleapis.com/earlyaccess/nanumgothic.css);
+body {
+    margin: 30px;
+    font-family: 'Nanum Gothic';  /* 나눔고딕체 */
+    color: black;
+    font-weight: bold;
+    font-size: 120%;
+    line-height: 150%;
+}
+a.createButton {
+    color: red;
+    background-color: rgb(212, 233, 255);
+    text-decoration: none;
+    padding: 6px;
+}
+a.updateButton {
+    color: blue;
+    background-color: rgb(255, 212, 212);
+    text-decoration: none;
+    padding: 6px;
+}
+input.deleteButton {
+    font-size: 18px;
+    color: black;
+    background-color: rgb(200, 250, 233);
+    padding-left: 11px;
+    padding-right: 11px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+}
+a.numberList {
+    text-decoration: none;
+    color: blue;
+    background-color: rgb(245, 245, 40);
+}
+p.copyright {
+    font-size: 10px;
+}
